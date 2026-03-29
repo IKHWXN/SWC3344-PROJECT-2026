@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=MainSystem
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ readFile()
+comment3.params=id
+comment3.target=AnalystInfo\ findAnalyst(java.lang.String)
+comment4.params=
+comment4.target=void\ assignQueues()
+comment5.params=
+comment5.target=void\ displayQueues()
+comment6.params=queue
+comment6.target=void\ displayQueue(java.util.Queue)
+comment7.params=
+comment7.target=void\ processQueues()
+comment8.params=queue
+comment8.target=void\ processBatch(java.util.Queue)
+comment9.params=
+comment9.target=void\ displayResolvedStack()
+numComments=10

@@ -1,0 +1,69 @@
+A001,Nur Syafiqah,Network Security,INC001,Phishing,3,2026-05-01,4 hours,15000
+A001,Nur Syafiqah,Network Security,INC002,DDoS,2,2026-05-02,2 hours,5000
+A001,Nur Syafiqah,Network Security,INC003,Malware,4,2026-05-03,3 hours,12000
+A001,Nur Syafiqah,Network Security,INC004,Data Breach,5,2026-05-04,6 hours,30000
+
+A002,Ali Hakim,Digital Forensics,INC005,Ransomware,5,2026-05-05,7 hours,40000
+A002,Ali Hakim,Digital Forensics,INC006,Phishing,2,2026-05-06,2 hours,4000
+A002,Ali Hakim,Digital Forensics,INC007,DDoS,3,2026-05-07,3 hours,9000
+
+A003,Siti Aisyah,Malware Analysis,INC008,Malware,4,2026-05-08,3 hours,11000
+A003,Siti Aisyah,Malware Analysis,INC009,Phishing,2,2026-05-09,2 hours,5000
+A003,Siti Aisyah,Malware Analysis,INC010,Data Breach,5,2026-05-10,5 hours,25000
+A003,Siti Aisyah,Malware Analysis,INC011,Ransomware,5,2026-05-11,6 hours,35000
+
+A004,John Lee,SIEM Monitoring,INC012,DDoS,3,2026-05-12,3 hours,8000
+A004,John Lee,SIEM Monitoring,INC013,Phishing,2,2026-05-13,2 hours,3000
+
+A005,Aina Zulkifli,Network Security,INC014,Phishing,3,2026-05-14,4 hours,14000
+A005,Aina Zulkifli,Network Security,INC015,DDoS,3,2026-05-15,3 hours,9000
+A005,Aina Zulkifli,Network Security,INC016,Malware,4,2026-05-16,4 hours,13000
+
+A006,Hafiz Rahman,Digital Forensics,INC017,Ransomware,5,2026-05-17,7 hours,42000
+A006,Hafiz Rahman,Digital Forensics,INC018,Data Breach,5,2026-05-18,6 hours,31000
+A006,Hafiz Rahman,Digital Forensics,INC019,Phishing,2,2026-05-19,2 hours,4000
+A006,Hafiz Rahman,Digital Forensics,INC020,DDoS,3,2026-05-20,3 hours,8500
+
+A007,Sarah Lim,Malware Analysis,INC021,Malware,4,2026-05-21,3 hours,10000
+A007,Sarah Lim,Malware Analysis,INC022,Phishing,2,2026-05-22,2 hours,4500
+
+A008,Daniel Tan,SIEM Monitoring,INC023,DDoS,3,2026-05-23,3 hours,7500
+A008,Daniel Tan,SIEM Monitoring,INC024,Phishing,2,2026-05-24,2 hours,3500
+
+A009,Farah Nabila,Network Security,INC025,Phishing,3,2026-05-25,4 hours,14000
+A009,Farah Nabila,Network Security,INC026,DDoS,3,2026-05-26,3 hours,9000
+A009,Farah Nabila,Network Security,INC027,Data Breach,5,2026-05-27,6 hours,28000
+
+A010,Amirul Azman,Digital Forensics,INC028,Ransomware,5,2026-05-28,7 hours,45000
+A010,Amirul Azman,Digital Forensics,INC029,Phishing,2,2026-05-29,2 hours,4000
+
+A011,Nadia Syahirah,Malware Analysis,INC030,Malware,4,2026-05-30,3 hours,11000
+A011,Nadia Syahirah,Malware Analysis,INC031,Data Breach,5,2026-05-31,5 hours,26000
+
+A012,Jason Wong,SIEM Monitoring,INC032,DDoS,3,2026-06-01,3 hours,7000
+A012,Jason Wong,SIEM Monitoring,INC033,Phishing,2,2026-06-02,2 hours,3500
+
+A013,Zul Ariff,Network Security,INC034,Phishing,3,2026-06-03,4 hours,15000
+A013,Zul Ariff,Network Security,INC035,DDoS,3,2026-06-04,3 hours,9500
+A013,Zul Ariff,Network Security,INC036,Malware,4,2026-06-05,4 hours,12000
+
+A014,Kevin Chong,Digital Forensics,INC037,Ransomware,5,2026-06-06,7 hours,43000
+A014,Kevin Chong,Digital Forensics,INC038,Data Breach,5,2026-06-07,6 hours,30000
+
+A015,Mei Ling,Malware Analysis,INC039,Malware,4,2026-06-08,3 hours,10000
+A015,Mei Ling,Malware Analysis,INC040,Phishing,2,2026-06-09,2 hours,4500
+
+A016,Adam Faiz,SIEM Monitoring,INC041,DDoS,3,2026-06-10,3 hours,8000
+A016,Adam Faiz,SIEM Monitoring,INC042,Phishing,2,2026-06-11,2 hours,3000
+
+A017,Nurul Iman,Network Security,INC043,Phishing,3,2026-06-12,4 hours,14000
+A017,Nurul Iman,Network Security,INC044,Data Breach,5,2026-06-13,6 hours,27000
+
+A018,Rizal Hakim,Digital Forensics,INC045,Ransomware,5,2026-06-14,7 hours,42000
+A018,Rizal Hakim,Digital Forensics,INC046,Phishing,2,2026-06-15,2 hours,4000
+
+A019,Siti Nur,Malware Analysis,INC047,Malware,4,2026-06-16,3 hours,11000
+A019,Siti Nur,Malware Analysis,INC048,Data Breach,5,2026-06-17,5 hours,25000
+
+A020,Lee Wei,SIEM Monitoring,INC049,DDoS,3,2026-06-18,3 hours,7000
+A020,Lee Wei,SIEM Monitoring,INC050,Phishing,2,2026-06-19,2 hours,3500

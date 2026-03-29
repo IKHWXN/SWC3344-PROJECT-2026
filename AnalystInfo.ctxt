@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=AnalystInfo
+comment1.params=id\ name\ expertise
+comment1.target=AnalystInfo(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=incident
+comment2.target=void\ addIncident(IncidentInfo)
+comment3.params=
+comment3.target=double\ getTotalImpactCost()
+comment4.params=
+comment4.target=void\ display()
+numComments=5
